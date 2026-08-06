@@ -1,0 +1,6 @@
+Trader,Instrument,Position,RiskLimit
+Alpha,AAPL,850,1000
+Bravo,MSFT,1200,1000
+Charlie,NVDA,950,1000
+Delta,TSLA,1800,1500
+Echo,GOOG,400,500
